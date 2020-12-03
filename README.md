@@ -1,5 +1,5 @@
 # PHS106
-This repository contains programs of a Physics Course, PHS106. C and MATLAB/Octave is used to solve the problems. We will use ```gnuplot``` for plotting.
+This repository contains programs of a Physics Course, PHS106. C and MATLAB/Octave is used to solve the problems. We will use ```gnuplot``` for plotting and ```gcc``` as C compiler.
 
 ## Syllabus
 
@@ -12,9 +12,9 @@ This repository contains programs of a Physics Course, PHS106. C and MATLAB/Octa
 * Area of circle
 * Are of square
 * Volume of square
-* Volume of pi $\pi$
+* Volume of pi.
 * Solution of Linear and Quadratic Equation
-* Evaluation of trigonometric function eg. $\sin{\theta}, \cos{\theta}, \tan{\theta}$
+* Evaluation of trigonometric function eg. sin(x), cos(x), tan(x)
 
 ### Application to Physics
 
@@ -23,4 +23,4 @@ This repository contains programs of a Physics Course, PHS106. C and MATLAB/Octa
 * Newton's Law of Cooling
 * Classical Equation of Motion
 * The differential equation describing the motion of a pendulum
-$\frac{d^2\theta}{dt^2} = -\sin{\theta}$ The pendulam is released from rest at an angular displacement $\alpha$ i.e. $\theta(0) = \alpha$, $\theta'(0) = 0$. Solve the equation $\alpha = 0.1, 0.5 and 1.0$ and plot $\theta$ as a function of time in the range $0 \leq t \leq 8\pi$. Also plot the analytic solution valid for $\theta$, $\sin{\theta}=0$
+d^2(theta)/dt^2 = -sin(x) The pendulam is released from rest at an angular displacement a i.e. theta(0) = alpha, theta'(0) = 0. Solve the equation alpha = 0.1, 0.5 and 1.0$ and plot theta as a function of time in the range 0 <= t <= 8*pi. Also plot the analytic solution valid for theta, sin(theta).
